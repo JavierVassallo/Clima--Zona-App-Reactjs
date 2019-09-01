@@ -8,4 +8,11 @@
  
  El manejo del Store o estado esta echo con Redux, y se usa la sintaxis de ES6.
  
+ Es responsiva con la ayuda de la libreria react-flexbox-grid, se utilizo material UI, para algunos elementos decorativos.
+ 
+ ![](https://github.com/JavierVassallo/Clima--Zona-App-Reactjs/blob/master/imgweather/1.png)
+ 
+ ![](https://github.com/JavierVassallo/Clima--Zona-App-Reactjs/blob/master/imgweather/2.png)
+ 
+ 
 
