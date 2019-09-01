@@ -10,7 +10,13 @@
  
  Es responsiva con la ayuda de la libreria react-flexbox-grid, se utilizo material UI, para algunos elementos decorativos.
  
+ El estilo visual no era de preponderancia claramente y puede mejorarse mucho.
+ 
+ 
+ 
  ![](https://github.com/JavierVassallo/Clima--Zona-App-Reactjs/blob/master/imgweather/1.png)
+ 
+ 
  
  ![](https://github.com/JavierVassallo/Clima--Zona-App-Reactjs/blob/master/imgweather/2.png)
  
